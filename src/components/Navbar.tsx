@@ -37,7 +37,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-16">
           <Link href="/" className="flex items-center gap-2">
             <Heart className="w-8 h-8 text-primary fill-primary" />
-            <span className="font-bold text-xl text-foreground tracking-tight">Swasthin</span>
+            <span className="font-bold text-xl text-foreground tracking-tight">Swasthini</span>
           </Link>
 
           {/* Desktop Nav */}
